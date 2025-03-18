@@ -68,5 +68,7 @@ I’m always open to feedback, discussions, and new ideas. If you find any issue
 
 ## دونیت 
 شما میتونید از طریق لینک زیر من رو حمایت کنید . ممنون 
-https://daramet.com/BigD
-
+<div align="center">
+    <a href="https://daramet.com/BigD">
+      <img src="BigD-daramet-card (1).png" width="400" height="151" alt="donate" />
+</div>
